@@ -10,7 +10,7 @@ import Skill from './sections/Skill.vue'
   <div class="header-padding"></div>
   <section id="home" class="fade-in grid grid-rows-[min-content,1fr]">
     <p class="text-[70px]">Welcome.</p>
-    <p class="text-[30px]">My name is <span class="text-green-500">Teerawat Tattananurat</span>. I'm a <span class="text-green-500">fullstack developer</span> based in Bangkok. I have many years of experience in <span class="text-green-500">Vue.js</span> and <span class="text-green-500">Node.js</span>. However, I'm also open to learn new technology as well.</p>
+    <p class="text-[30px]">My name is <span class="text-green-500">Teerawat Tattananurat</span>. I'm a <span class="text-green-500">fullstack developer</span> based in Bangkok. I have many years of experience in <span class="text-green-500">Django</span>, <span class="text-green-500">Vue.js</span> and <span class="text-green-500">Node.js</span>. However, I'm also open to learn new technology as well.</p>
   </section>
   <WorkExperience/>
   <Skill/>

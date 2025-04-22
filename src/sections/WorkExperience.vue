@@ -3,12 +3,21 @@
     <p class="text-[50px]">Work Experiences</p>
     <div class="grid md:grid-cols-[max-content,1fr] work gap-x-10">
       <div class="md:!p-10 md:!pl-0 md:border-r border-gray-400">
-        <p class="text-[32px] md:text-right text-gray-400 timestamp">Since 2022</p>
+        <p class="text-[32px] md:text-right text-gray-400 timestamp">Since Jun 2024</p>
+      </div>
+      <div class="border-b border-gray-400">
+        <p class="text-[32px]">Python Backend Developer</p>
+        <p class="text-[24px] text-gray-400 mb-4">at Brainergy Digital</p>
+        <p class="text-[20px]">Working on the e-tax & e-receipt system in backend role using Django with PostgreSQL database.</p>
+      </div>
+
+      <div class="md:!p-10 md:!pl-0 md:border-r border-gray-400">
+        <p class="text-[32px] md:text-right text-gray-400 timestamp">Sep 2022 - May 2024</p>
       </div>
       <div class="border-b border-gray-400">
         <p class="text-[32px]">Fullstack developer</p>
         <p class="text-[24px] text-gray-400 mb-4">at House of Dev Technology</p>
-        <p class="text-[20px]">Working on the company's ERP and customer products mainly as backend role using Node.js with MySQL and PostgreSQL database.</p>
+        <p class="text-[20px]">Working on the company's ERP and customer products mainly in backend role using Node.js with MySQL and PostgreSQL database.</p>
       </div>
 
       <div class="md:!p-10 md:!pl-0 md:border-r border-gray-400">

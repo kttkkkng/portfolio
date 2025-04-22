@@ -23,6 +23,7 @@
         <div class="flex px-3 py-10 bg-white rounded-lg justify-around gap-2">
           <img class="skill backend-1" src="../assets/skills/node.png" />
           <img class="skill backend-2" src="../assets/skills/express.png" />
+          <img class="skill backend-3" src="../assets/skills/django.svg" />
         </div>
       </div>
       <div>
@@ -100,6 +101,10 @@
 
 .skill-backend:has(+ div > .backend-2:hover)::after {
   content: ': express';
+}
+
+.skill-backend:has(+ div > .backend-3:hover)::after {
+  content: ': django';
 }
 
 .skill-database:has(+ div > .database-1:hover)::after {
